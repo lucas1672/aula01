@@ -5,4 +5,8 @@ var datadenacimento
 
 document.write(typeof nome,'<br/>')
 document.write(typeof datadenacimento,'<br/>')
-document.write(typeof eprofessor)
+document.write(typeof eprofessor)git log
+confirm
+continue
+blurlcd
+git
