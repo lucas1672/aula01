@@ -1,13 +1,18 @@
 
 
 
+                                      # PROJETO
+![6b1380ea-5404-4f1c-b8d1-777dc6de332c](https://github.com/user-attachments/assets/88c6d983-46f3-4d40-9d88-56dd45c6ff60)
 
 
 
-![logica](c:\Users\Usuário\Pictures\tinkercad.png)
 # lógicas de programação
- <b>Grande trabalho de Tinkercad <B>
+ <b>Você, aluno do curso técnico em desenvolvimento de sistemas, iniciante na área de tecnologia, irá desenvolver e apresentar para prefeitura, um algoritmo que calcule a quantidade de usuários, valor arrecadado na viagem, quantidade usuários e valores perdidos pela lotação do ônibus (capacidade máxima), e ao final da execução uma análise se deve ampliar, diminuir ou manter os ônibus nessa linha.<B>
+ 
+# Projeto de Tinkercad
+![Captura de tela 2024-07-27 171605](https://github.com/user-attachments/assets/b22762e1-9256-424b-8cd6-982657eb2cb0)
 
+   
  
  <h1>Teste em casa </h1>
  <h2>função<h2>
