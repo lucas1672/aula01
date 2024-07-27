@@ -13,6 +13,12 @@
 ![Captura de tela 2024-07-27 171605](https://github.com/user-attachments/assets/b22762e1-9256-424b-8cd6-982657eb2cb0)
 
    
+ # FLUXOGRAMA PROJETO 
+ ![Captura de tela 2024-07-27 204500](https://github.com/user-attachments/assets/99137aca-c5fc-4c67-94d1-1ea76016456d)
+
+ 
+ 
+ 
  
  <h1>Teste em casa </h1>
  <h2>função<h2>
