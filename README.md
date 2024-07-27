@@ -1,6 +1,15 @@
 
 
 
+**Você, aluno do curso técnico em desenvolvimento de sistemas, iniciante na área de tecnologia, irá desenvolver e apresentar para prefeitura, um algoritmo que:**
+
+1. **Calcule a quantidade de usuários na viagem**
+2. **Calcule o valor arrecadado na viagem**
+3. **Calcule a quantidade de usuários e valores perdidos pela lotação do ônibus (capacidade máxima)**
+4. **Faça uma análise ao final da execução se deve ampliar, diminuir ou manter os ônibus nessa linha**
+
+
+
                                       # PROJETO
 ![6b1380ea-5404-4f1c-b8d1-777dc6de332c](https://github.com/user-attachments/assets/88c6d983-46f3-4d40-9d88-56dd45c6ff60)
 
